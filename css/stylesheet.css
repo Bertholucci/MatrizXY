@@ -1,0 +1,12 @@
+/* Zerar configurações de espaçamento */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho apresentação */
+.header {
+    width: 100%;
+    background-color: #102a9c;
+}
