@@ -1,5 +1,4 @@
 /* Zerar configurações de espaçamento */
-
 * {
     margin: 0;
     padding: 0;
@@ -9,69 +8,6 @@ body {
     height: 100%;
 }
 
-/* Cabeçalho apresentação */
-header {
-    width: 100%;
-    height: 130px;
-}
 
-.presentation {
-    background: url(../images/3D_Printer_for_presentation.png);
-  background-repeat: no-repeat;
-  width: 100%;
-  background-size: 100%;
-  height: 530px;
-}
 
-header img {
-    width: 122px;
-    height: 100px;
-    margin-top: 15px;
-    margin-bottom: 15px;;
-    float: left;
-}
 
-header img:hover {
-    width: 125px;
-    height: 105px;
-    margin-top: 15px;
-    margin-bottom: 15px;;
-    float: left;
-}
-
-.navigation-set {
-    float: right;
-     align-items: center
-}
-
-.container {
-    width: 960px;
-    margin: 0 auto;
-    padding: 0px;
-    position: relative;
-}
-
-.list-nav {
-    list-style-type:none;
-    margin-top: 60px;;
-}
-
-.list-nav li{
-    display: inline-block;
-    padding: 0px 15px;
-    margin: 0 auto;
-}
-
-.list-nav li a {
-    font-family: TT Commons;
-    color: #465148;
-    text-decoration:none;
-    font-size: 24px;
-    line-height: 30px;
-    text-transform: uppercase;
-}
-
-.list-nav li a:hover {
-    color: #000000;
-    font-size: 26px;
-}
