@@ -23,3 +23,22 @@
 .marketing {
     background-color: #000000;
 }
+
+
+.contact-us {
+    font-family: TT Commons;
+    font-size: 1.5em;
+    color: #ffffff;
+    padding: 20px 40px;
+    border: 1px solid #ffffff;
+}
+
+.contact-us:hover{
+    text-decoration: none;
+    color: #dcd638;
+    border: 4px solid #dcd638;
+}
+
+.call-to-action {
+    padding-bottom: 40px;
+}
