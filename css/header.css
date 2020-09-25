@@ -27,7 +27,7 @@
     background-color: #34D48E;
 }
 
-@media only screen and (max-width: 576px) {
+@media only screen and (max-width: 720px) {
     .navbar-brand{
         margin: 0px auto;
     }
