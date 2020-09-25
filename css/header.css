@@ -8,7 +8,8 @@
     font-family: TT Commons;
     text-decoration: none;
     font-size: 1.4em;
-    padding: 0px 10px;
+    text-transform: uppercase;
+    padding: 0px 18px;
     color: #ffffff;
 }
 
@@ -19,6 +20,7 @@
 .list-inline-item:hover {
     font-size: 1.5em;
     color: #6E34D4;
+    text-transform: uppercase;
 }
 
 .navbar {
@@ -32,5 +34,9 @@
 
     .list-inline {
         margin: 0 auto;
+    }
+
+    .list-inline-item {
+        padding: 0 5px;
     }
 }

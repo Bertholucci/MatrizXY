@@ -1,0 +1,24 @@
+.img-fluid {
+    width: 100%;
+}
+
+.icon-marketing {
+    width: 90px;
+    height: 90px;
+}
+
+.col-sm {
+    display: inline-flex;
+}
+
+.itens-marketing{
+    padding: 20px;
+}
+
+.marketing-ul  {
+    padding: 10px;
+}
+
+.marketing {
+    background-color: #f0d8bb;
+}
