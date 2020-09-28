@@ -40,3 +40,13 @@
         padding: 0 5px;
     }
 }
+
+@media only screen and (max-width: 540px) {
+    .list-inline-item {
+        font-size: 1em;
+    }
+
+    .list-inline {
+        margin: 0 auto;
+    }
+}
